@@ -1,5 +1,5 @@
 .yoga-container {
-    background-image: linear-gradient(to right, #7b2fff 0%, #1988f0 100%);
+    background-image: linear-gradient(to right, red 0%, yellow 100%);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
