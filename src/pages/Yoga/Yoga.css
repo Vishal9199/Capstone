@@ -9,7 +9,7 @@
     overflow: hidden;
 }
 .yoga-pose-container {
-    background-image: linear-gradient(to right, #FF512F 0%, #F09819 100%);
+    background-image: linear-gradient(to right, red 0%, yellow 100%);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
