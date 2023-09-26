@@ -15,7 +15,7 @@ export default function About() {
             <h1 className="about-heading">About</h1>
             <div className="about-main">
                 <p className="about-content">
-                    Yoga has been the way of life for centuries. By building Urban Yogi we have built a Yoga trainer website where learners can select the pose that they intend to do and then our unique pose detection and pose correction software shall help them navigate their learning experience.
+                    Yoga has been the way of life for centuries. By building Yoga Smart we have built a Yoga trainer website where learners can select the pose that they intend to do and then our unique pose detection and pose correction software shall help them navigate their learning experience.
                     This is an open source project by a bunch of third year students.
                 </p>
                 <p className="about-content">
@@ -28,12 +28,7 @@ export default function About() {
                     We have trained the model in python because of tensorflowJS we can leverage the support of browser so I converted 
                     the keras/tensorflow model to tensorflowJS.
                 </p>
-                <div className="developer-info">
-                    <h4>About Developer</h4>
-                    <p className="about-content">This application is developed by Mainak Chaudhuri.  
-                    </p>
-                    
-                </div>
+               
             </div>
         </div>
     )
